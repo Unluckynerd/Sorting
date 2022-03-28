@@ -2,7 +2,7 @@ package sort;
 
 public class test {
 
-    public void sort( Bubblesort obj,int a[])
+    public void sort( BubbleSort obj,int a[])
     {
         obj.sort(a);
     }
