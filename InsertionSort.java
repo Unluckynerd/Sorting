@@ -1,6 +1,6 @@
 package Sorting;
 
-public class InsertionSort implements Arrays{
+public class InsertionSort implements array{
     @Override
     public void sort(int[] a) {
         for(int i = 0 ; i < a.length - 1 ; i++)
