@@ -1,6 +1,6 @@
 package Sorting;
 
-public class BubbleSort implements Arrays{
+public class BubbleSort implements array{
 
     @Override
     public void sort(int[] a) {
